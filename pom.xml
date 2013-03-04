@@ -3,6 +3,7 @@
   <groupId>com.jlalande</groupId>
   <artifactId>webapp-demo</artifactId>
   <version>1.0.0-SNAPSHOT</version>
+  <packaging>war</packaging>
   <name>webapp-demo</name>
   <url>https://github.com/jlalande/webapp-demo</url>
 
