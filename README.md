@@ -7,13 +7,13 @@ This project is a sample Web application created for an introduction presentatio
 
 Usage
 -----
-You can build the project using Maven:
+You can build the project using Maven.
 
 `mvn clean package`
 
-You can also use the embedded Jetty to quickly run the Web application:
+You can also use the embedded Jetty to quickly run the Web application.
 
 `mvn jetty:run`
 
-And then, point your browser to http://localhost:8080/hello.
+And then, point your browser to [http://localhost:8080/hello](http://localhost:8080/hello).
 
