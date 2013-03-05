@@ -17,3 +17,8 @@ You can also use the embedded Jetty to quickly run the Web application.
 
 And then, point your browser to [http://localhost:8080/hello](http://localhost:8080/hello).
 
+Branches
+--------
+A feature branch is available to show how it differs from the master branch.
+
+The *feature/root-resource* branch has an additional resource that handles the root context of the Web application.
